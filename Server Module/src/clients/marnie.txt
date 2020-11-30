@@ -1,0 +1,7 @@
+BubbleSortList bbls 50.6 
+ListAppending LsAp 19.67 
+WriteTest wTest 26.32 
+FindPrime Fpme 14.93 
+FindVoyelle Fvol 33.77 
+CaesarCypher CaCp 23.57 
+ICMPrequest icmp 248.92 
